@@ -4,7 +4,7 @@ import Gallery from "../Gallery/Gallery";
 import Hero from "../Hero/Hero";
 import CarouselCustomNavigation from "../Slider/Slider";
 import Carosul from "../carosul/Carosul";
-import Sticky from "../sticky/sticky";
+
 
 
 
@@ -17,7 +17,7 @@ const Home = () => {
             <CarouselCustomNavigation></CarouselCustomNavigation>
             <Hero></Hero>
             <Carosul></Carosul>
-          <Sticky></Sticky>
+          
             <Gallery></Gallery>
         </div>
     );
