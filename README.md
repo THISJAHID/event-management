@@ -1,8 +1,23 @@
-# React + Vite
+# Event management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## feature.
+This website also has a fantastic event planning option, designed to help you organize all your special occasions. Select one or more events from the following categories:
 
-Currently, two official plugins are available:
+## Birthdays: 
+Plan your loved one's birthday party, arrange decorations, plan food menus, and suggest personalized gifts for special occasions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Wedding: 
+Make a wedding plan, select the best wedding venue, and plan a fun wedding ceremony for the family and everyone.
+
+## Marriage Anniversary:
+ ​​Plan a special anniversary event for those whose marriage anniversary is coming up from one year to more years of your married life.
+
+## Baby Shower: 
+When a new baby is born in your family, plan a baby shower party, mother-son love party.
+## ect.
+  
+  ## ‍Some More feature.
+  It has some more benefits, such as creating users through Google Firebase, user login etc
+
+
+## This website uses React, React Silk, AOS Animation, and Firebase.
