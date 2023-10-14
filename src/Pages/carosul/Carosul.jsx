@@ -1,11 +1,7 @@
 
-import OwlCarousel from 'react-owl-carousel';
-import 'owl.carousel/dist/assets/owl.carousel.css';
-import 'owl.carousel/dist/assets/owl.theme.default.css';
-
-import { FaFacebook } from 'react-icons/fa';
-import { TiSocialTwitter } from 'react-icons/ti';
-import { AiFillLinkedin } from 'react-icons/ai';
+// import { FaFacebook } from 'react-icons/fa';
+// import { TiSocialTwitter } from 'react-icons/ti';
+// import { AiFillLinkedin } from 'react-icons/ai';
 
 const Carosul = () => {
   return (
@@ -14,7 +10,7 @@ const Carosul = () => {
         <h3 className='font-bold text-5xl underline text-[#794CC2]'> The Executive Team</h3>
         <p className='mt-6 text-[#9b77d4]'>This is the paragraph where you can write more details about your team. Keep you user engaged by providing meaningful information.</p>
       </div>
-      <OwlCarousel className='owl-theme mt-5' loop autoplay margin={10}  nav>
+      {/* <OwlCarousel className='owl-theme mt-5' loop autoplay margin={10}  nav>
       <div className='item'>
         <div className="img w-[100px]  justify-center">
                             
@@ -127,7 +123,7 @@ const Carosul = () => {
         </div>
     </div>
 
-</OwlCarousel>
+</OwlCarousel> */}
     </div>
   );
 };
